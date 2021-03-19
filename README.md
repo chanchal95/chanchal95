@@ -1,10 +1,7 @@
  👋 Hi, I’m  Shashi Kant 
-- 👀 I’m interested in Competiteve Programming Using Data Structure And Algorithm Using Language C++ . And I also Like NodeJs Technology .
-- 🌱 I’m currently learning ML (Machine Learning )
-- 💞️ I’m looking to collaborate on ...
+  I have passed B.tech from madan mohan malaviya university of technology gorakhpur in 2020 from Computer Science and engineering . Looking Forward to
+  becoming a software engineer in the near Future. 
+  My Skill include Software Devolopment , Web devolopment , C++ Devoloper  etc.
 - 📫 How to reach me ... Shashikant140895@gmail.com
 
-<!---
-chanchal95/chanchal95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
